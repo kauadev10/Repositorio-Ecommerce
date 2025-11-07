@@ -1,16 +1,25 @@
-# Atividade de extensão dev+git
-*nome do ecommerce*: 
+# Atividade de Extensão — Dev + Git
 
-*integrante líder*: Kauã Ricardo Gomes Fagundes
+## 🏪 Nome do E-commerce
+*CloudStore*
 
-*integrante 2*: Bruno Petroli
+---
 
-*integrante 3*: Vinicius Bastos Rodrigues
+## 👥 Integrantes
+- **Líder:** Kauã Ricardo Gomes Fagundes  
+- **Integrante 2:** Bruno Petroli  
+- **Integrante 3:** Vinicius Bastos Rodrigues  
+- **Integrante 4:** Wendel Souza Cardoso  
+- **Integrante 5:**
 
-*integrante 4*: Wendel Souza Cardoso
+---
 
-*integrante 5*:
+## 💻 Tecnologias Utilizadas
+*HTML*
+*CSS*
+*Git + GitHub Desktop*
 
-*tecnologias utilizadas*:
+---
 
-tipo de licença: uso livre ou privado
+## 📜 Tipo de Licença
+Uso **livre**
