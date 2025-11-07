@@ -16,7 +16,9 @@
 
 ## 💻 Tecnologias Utilizadas
 *HTML*
+
 *CSS*
+
 *Git + GitHub Desktop*
 
 ---
